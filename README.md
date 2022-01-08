@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Mural Map](https://github.com/nicholasherrick/mural-map-frontend)
+- 🔭 I’m currently working on [Mural Map](https://github.com/nicholasherrick/mural-map-frontend) in my freetime
 - 🌱 I’m currently learning [C# .NET](https://docs.microsoft.com/en-us/dotnet/csharp/) & [Typescript](https://www.typescriptlang.org/)
 - 💼 I'm currently working at [Paradigm](https://myparadigm.com/) as a Software Developer
 - 👯 I’m looking to collaborate on something cool
